@@ -1,0 +1,31 @@
+Privacy Policy for Expense Tracker
+Last updated: 07/03/25
+
+[Your App Name] ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.
+
+1. Information We Collect
+No personal identifying information is collected
+
+User-provided data: When you use our app, you may enter financial transactions, which are stored locally on your device.
+Google Drive / Dropbox Data: If you enable backup features, we may access your cloud storage to upload/download CSV files.
+
+2. How We Use Your Information
+We use collected data to:
+
+Store and display financial records within the app
+Sync backups to Google Drive or Dropbox (if enabled)
+
+3. Data Storage & Security
+Your data is stored locally on your device. If cloud backup is enabled, data is securely transferred to Google Drive/Dropbox using their official APIs.
+
+4. Third-Party Services
+We use third-party services for cloud backup and purchases. Their policies apply:
+
+Google Drive: Google Privacy Policy
+Dropbox: Dropbox Privacy Policy
+
+5. User Rights
+You can delete your data anytime via the app settings or by uninstalling the app.
+
+6. Contact Us
+For privacy concerns, contact us at: andrewfldn@gmail.com
